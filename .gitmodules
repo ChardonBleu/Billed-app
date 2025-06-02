@@ -1,0 +1,6 @@
+[submodule "Billed-Back"]
+	path = Billed-Back
+	url = https://github.com/ChardonBleu/Billed-Back
+[submodule "Billed-Front"]
+	path = Billed-Front
+	url = https://github.com/ChardonBleu/Billed-Front
